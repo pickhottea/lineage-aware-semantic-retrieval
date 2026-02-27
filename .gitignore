@@ -1,0 +1,12 @@
+# artifacts / runs / caches
+artifacts/
+**/outputs/
+**/_pipeline_runs/
+**/.cache/
+**/__pycache__/
+*.pyc
+
+# local env
+.venv/
+.env
+.DS_Store
