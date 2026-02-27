@@ -72,7 +72,7 @@ Ongoing experimental research.
 Future extensions include cross-language embedding evaluation and LLM-enhanced semantic patent database integration.
 
 ## Quick links
-- Architecture: `docs/architecture/semantic_station_contract.md`
-- Policies: `policies/semantic/`
-- Track A execution: `docs/experiments/track_a_execution.md`
-- Consolidated evaluation: `docs/experiments/embedding_comparison_consolidated.md`
+- Architecture: [semantic_station_contract](docs/architecture/semantic_station_contract.md)
+- Policies: [semantic policies](policies/semantic/)
+- Track A execution: [track_a_execution](docs/experiments/track_a_execution.md)
+- Consolidated evaluation: [embedding_comparison_consolidated](docs/experiments/embedding_comparison_consolidated.md)
